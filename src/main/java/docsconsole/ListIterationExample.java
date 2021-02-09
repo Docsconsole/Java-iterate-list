@@ -1,9 +1,9 @@
-package docsconsole.foreach;
+package docsconsole;
 
 import java.util.*;
 import java.util.function.Consumer;
 
-public class ForEachExample {
+public class ListIterationExample {
 
 	public static void main(String[] args) {
 
